@@ -4,7 +4,7 @@
 # What are the top 5 most common job titles for data scientists?
 ![Screenshot 2023-02-26 143748](https://user-images.githubusercontent.com/105762453/221439157-ea10d5c1-6e8b-4ea1-8211-090e2dc890b1.png)
 
-# What is the average salary for data scientists jobs per sector?
+# What is the average salary for data scientists' jobs per sector?
 ![Screenshot 2023-02-26 195341](https://user-images.githubusercontent.com/105762453/221462243-e1234c1d-6a10-457f-84f0-d6fbb6bed3b2.png)
 
 # How many data scientist jobs require specific skills?
